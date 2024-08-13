@@ -169,6 +169,11 @@ p {
   margin-bottom: 1rem;
 }
 
+ul {
+  list-style-type: none;
+}
+
+
 abbr[title] {
   -webkit-text-decoration: underline dotted;
           text-decoration: underline dotted;
